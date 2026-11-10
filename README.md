@@ -24,15 +24,17 @@ The variety column contains three labels that represent the classification of ea
 
 ## Objectives
 - Perform EDA
--
--![2.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/images_readme/2.png)
+
+![2.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/images_readme/2.png)
+
 - Select feature pairs for better visualization in a 2D graph
--
--![3.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/images_readme/3.png)
+
+![3.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/images_readme/3.png)
 - Apply standardization using StandardScaler
 - Implement the K-means algorithm
 - Determine the appropriate number of clusters using the elbow method
--![elbow_method.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/elbow_method/elbow_method.png)
+
+![elbow_method.png](https://github.com/kaav-ai/K-means-Algorithm---Iris-Dataset/blob/870e3b65567b4207aca62ef213789dce45437f52/elbow_method/elbow_method.png)
 
 ## Cluster Visualization
 > The following visualizations show how K-Means groups the Iris dataset using different K values, from 2 to 5, on one of the feature pairs.
